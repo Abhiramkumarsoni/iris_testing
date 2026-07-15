@@ -2,3 +2,4 @@ Flask>=2.2
 pytest>=7.0
 numpy
 joblib
+sklearn
